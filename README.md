@@ -4,8 +4,8 @@ Estou começando os trabalhos nessa rede, sinta-se livre para comentar, comparti
 
 # Meus principais projetos
 
-- URL 1: https://github.com/matheixas/atividade-fiap-suen
-- URL 2:
+- URL 1: https://github.com/matheixas/nestjs-typeorm-mysql
+- URL 2: https://github.com/matheixas/atividade-fiap-suen
 
 <!--
 **matheixas/matheixas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
